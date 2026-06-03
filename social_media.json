@@ -1,0 +1,51 @@
+[
+  {
+    "appName": "Instagram",
+    "description": "Sosyal Medya Uygulaması",
+    "packageName": "com.instagram.android",
+    "iconUrl": "https://images.seeklogo.com/logo-png/43/1/instagram-new-2022-logo-png_seeklogo-438252.png",
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.android"
+  },
+  {
+    "appName": "WhatsApp",
+    "description": "Mesajlaşma Uygulaması",
+    "packageName": "com.whatsapp",
+    "iconUrl": "https://images.seeklogo.com/logo-png/28/1/whatsapp-icon-logo-png_seeklogo-285144.png",
+    "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
+  },
+  {
+    "appName": "X (Eski Twitter)",
+    "description": "Sosyal Medya Uygulaması",
+    "packageName": "com.twitter.android",
+    "iconUrl": "https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492395.png",
+    "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
+  },
+  {
+    "appName": "Telegram",
+    "description": "Mesajlaşma Uygulaması",
+    "packageName": "org.telegram.messenger",
+    "iconUrl": "https://images.seeklogo.com/logo-png/25/1/telegram-logo-png_seeklogo-256226.png",
+    "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
+  },
+  {
+    "appName": "YouTube",
+    "description": "Video İzleme Uygulaması",
+    "packageName": "com.google.android.youtube",
+    "iconUrl": "https://images.seeklogo.com/logo-png/27/1/youtube-icon-logo-png_seeklogo-270054.png",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube"
+  },
+  {
+    "appName": "TikTok",
+    "description": "Sosyal Medya Uygulaması",
+    "packageName": "com.zhiliaoapp.musically",
+    "iconUrl": "https://images.seeklogo.com/logo-png/37/1/tiktok-app-icon-logo-png_seeklogo-373800.png",
+    "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically"
+  },
+  {
+    "appName": "Snapchat",
+    "description": "Sosyal Medya Uygulaması",
+    "packageName": "com.snapchat.android",
+    "iconUrl": "https://images.seeklogo.com/logo-png/24/1/snapchat-logo-png_seeklogo-249555.png",
+    "url": "https://play.google.com/store/apps/details?id=com.snapchat.android"
+  }
+]
