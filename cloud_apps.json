@@ -1,0 +1,30 @@
+[
+  {
+    "appName": "Google Drive",
+    "description": "Popüler Depolama uygulaması",
+    "packageName": "com.google.android.apps.docs",
+    "iconUrl": "https://images.seeklogo.com/logo-png/27/1/google-drive-logo-png_seeklogo-273200.png",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs"
+  },
+  {
+    "appName": "Mega",
+    "description": "Popüler Depolama uygulaması",
+    "packageName": "mega.privacy.android.app",
+    "iconUrl": "https://images.seeklogo.com/logo-png/29/1/mega-icon-logo-png_seeklogo-298478.png",
+    "url": "https://play.google.com/store/apps/details?id=mega.privacy.android.app"
+  },
+  {
+    "appName": "Microsoft OneDrive",
+    "description": "Popüler Depolama uygulaması",
+    "packageName": "com.microsoft.skydrive",
+    "iconUrl": "https://images.seeklogo.com/logo-png/64/1/microsoft-onedrive-2025-logo-png_seeklogo-644157.png",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.skydrive"
+  },
+  {
+    "appName": "Dropbox",
+    "description": "Popüler Depolama uygulaması",
+    "packageName": "com.dropbox.android",
+    "iconUrl": "https://images.seeklogo.com/logo-png/27/1/dropbox-logo-png_seeklogo-273046.png",
+    "url": "https://play.google.com/store/apps/details?id=com.dropbox.android"
+  }
+]
