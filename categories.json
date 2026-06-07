@@ -1,0 +1,30 @@
+[
+  {
+    "categoryName": "Sosyal Medya",
+    "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/social_media_apps.json"
+  },
+  {
+    "categoryName": "Müzik",
+    "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/music_apps.json"
+  },
+  {
+    "categoryName": "Tarayıcı",
+    "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/browser_apps.json"
+  },
+  {
+    "categoryName": "Yapay Zeka",
+    "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/ai_apps.json"
+  },
+  {
+    "categoryName": "Navigasyon",
+    "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/navigation_apps.json"
+  },
+  {
+    "categoryName": "Video ve Fotoğraf Düzenleme",
+    "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/editing_apps.json"
+  },
+  {
+    "categoryName": "Bulut Hizmetleri",
+    "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/cloud_apps.json"
+  }
+]
