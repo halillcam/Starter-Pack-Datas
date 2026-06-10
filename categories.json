@@ -16,6 +16,10 @@
     "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/ai_apps.json"
   },
   {
+    "categoryName": "Film ve Dizi",
+    "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/movie_apps.json"
+  },
+  {
     "categoryName": "Navigasyon",
     "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/navigation_apps.json"
   },
@@ -26,5 +30,5 @@
   {
     "categoryName": "Bulut Hizmetleri",
     "appsUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/cloud_apps.json"
-  }
+  },
 ]
