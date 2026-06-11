@@ -3,7 +3,7 @@
     "appName": "Instagram",
     "description": "Sosyal Medya Uygulaması",
     "packageName": "com.instagram.android",
-    "iconUrl": "https://images.seeklogo.com/logo-png/43/1/instagram-new-2022-logo-png_seeklogo-438252.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/instagram_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.instagram.android"
   },
   {
@@ -19,6 +19,13 @@
     "packageName": "com.twitter.android",
     "iconUrl": "https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492395.png",
     "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
+  },
+  {
+    "appName": "Facebook",
+    "description": "Sosyal Medya Uygulaması",
+    "packageName": "com.facebook.katana",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/facebook_logo.png",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
   },
   {
     "appName": "Telegram",
