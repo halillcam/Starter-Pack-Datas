@@ -3,28 +3,28 @@
     "appName": "CapCut",
     "description": "Fotograf ve video Düzenleme Uygulaması",
     "packageName": "com.lemon.lvoverseas",
-    "iconUrl": "https://images.seeklogo.com/logo-png/46/1/capcut-logo-png_seeklogo-467267.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/capcut_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas"
   },
   {
     "appName": "Canva",
     "description": "Fotograf Düzenleme Uygulaması",
     "packageName": "com.canva.editor",
-    "iconUrl": "https://images.seeklogo.com/logo-png/43/1/canva-logo-png_seeklogo-438258.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/canva_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.canva.editor"
   },
   {
     "appName": "Edits",
     "description": "Instagram'ın video Düzenleme ve yeni video Üretme Uygulaması",
     "packageName": "com.instagram.basel",
-    "iconUrl": "https://images.seeklogo.com/logo-png/63/1/edits-an-instagram-app-icon-logo-png_seeklogo-634414.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/edits_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.instagram.basel"
   },
   {
     "appName": "Inshot",
     "description": "Fotograf Düzenleme Uygulaması",
     "packageName": "com.camerasideas.instashot",
-    "iconUrl": "https://images.seeklogo.com/logo-png/48/1/inshot-logo-png_seeklogo-481164.png",
+    "iconUrl": "hhttps://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/inshot_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.camerasideas.instashot"
   }
 ]
