@@ -3,28 +3,28 @@
     "appName": "ChatGPT",
     "description": "Popüler Yapay zeka uygulaması",
     "packageName": "com.openai.chatgpt",
-    "iconUrl": "https://images.seeklogo.com/logo-png/46/1/chatgpt-logo-png_seeklogo-465219.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/chatgpt_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt"
   },
   {
     "appName": "Claude",
     "description": "Popüler Yapay zeka uygulaması",
     "packageName": "com.anthropic.claude",
-    "iconUrl": "https://images.seeklogo.com/logo-png/55/1/claude-logo-png_seeklogo-554534.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/claude_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.anthropic.claude"
   },
   {
     "appName": "Gemini",
     "description": "Popüler Yapay zeka uygulaması",
     "packageName": "com.google.android.apps.bard",
-    "iconUrl": "https://images.seeklogo.com/logo-png/62/1/google-gemini-icon-logo-png_seeklogo-623016.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/gemini_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard"
   },
   {
     "appName": "Grok",
     "description": "Popüler Yapay zeka uygulaması",
     "packageName": "ai.x.grok",
-    "iconUrl": "https://images.seeklogo.com/logo-png/61/1/grok-logo-png_seeklogo-613403.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/grok_logo.png",
     "url": "https://play.google.com/store/apps/details?id=ai.x.grok"
   }
 ]
