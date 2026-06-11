@@ -24,7 +24,7 @@
     "appName": "Inshot",
     "description": "Fotograf Düzenleme Uygulaması",
     "packageName": "com.camerasideas.instashot",
-    "iconUrl": "hhttps://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/inshot_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/inshot_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.camerasideas.instashot"
   }
 ]
