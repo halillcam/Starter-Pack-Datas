@@ -3,21 +3,21 @@
     "appName": "Netflix",
     "description": "Popüler film ve dizi platformu",
     "packageName": "com.netflix.mediaclient",
-    "iconUrl": "https://images.seeklogo.com/logo-png/31/1/netflix-n-logo-png_seeklogo-318950.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/netflix_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient"
   },
   {
     "appName": "Prime video",
     "description": "Popüler film ve dizi platformu",
     "packageName": "com.amazon.avod.thirdpartyclient",
-    "iconUrl": "https://images.seeklogo.com/logo-png/50/1/amazon-prime-video-logo-png_seeklogo-505888.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/primevideo_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient"
   },
   {
     "appName": "HBO Max",
     "description": "TV ve Film Platformu",
     "packageName": "com.wbd.stream",
-    "iconUrl": "https://images.seeklogo.com/logo-png/42/1/hbo-max-logo-png_seeklogo-427104.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/hbomax_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.wbd.stream"
   }
 ]
