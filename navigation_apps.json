@@ -3,14 +3,14 @@
     "appName": "Google Haritalar",
     "description": "Popüler Navigasyon uygulaması",
     "packageName": "com.google.android.apps.maps",
-    "iconUrl": "https://images.seeklogo.com/logo-png/36/1/google-maps-icon-2020-logo-png_seeklogo-368992.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/googlemaps_logo.png",
     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
   },
   {
     "appName": "Yandex Haritalar",
     "description": "Popüler Navigasyon uygulaması",
     "packageName": "ru.yandex.yandexmaps",
-    "iconUrl": "https://images.seeklogo.com/logo-png/43/1/yandex-maps-logo-png_seeklogo-432482.png",
+    "iconUrl": "https://raw.githubusercontent.com/halillcam/Starter-Pack-Datas/main/starterpack_logos/yandexmaps_logo.png",
     "url": "https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps"
   }
 ]
